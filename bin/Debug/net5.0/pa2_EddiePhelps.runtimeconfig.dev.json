@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eamon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eamon\\.nuget\\packages"
+    ]
+  }
+}

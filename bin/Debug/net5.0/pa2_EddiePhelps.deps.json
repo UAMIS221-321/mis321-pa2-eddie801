@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pa2_EddiePhelps/1.0.0": {
+        "runtime": {
+          "pa2_EddiePhelps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pa2_EddiePhelps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

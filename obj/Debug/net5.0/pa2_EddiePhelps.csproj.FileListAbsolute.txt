@@ -1,0 +1,16 @@
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\bin\Debug\net5.0\pa2_EddiePhelps.exe
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\bin\Debug\net5.0\pa2_EddiePhelps.deps.json
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\bin\Debug\net5.0\pa2_EddiePhelps.runtimeconfig.json
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\bin\Debug\net5.0\pa2_EddiePhelps.runtimeconfig.dev.json
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\bin\Debug\net5.0\pa2_EddiePhelps.dll
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\bin\Debug\net5.0\ref\pa2_EddiePhelps.dll
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\bin\Debug\net5.0\pa2_EddiePhelps.pdb
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\obj\Debug\net5.0\pa2_EddiePhelps.csprojAssemblyReference.cache
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\obj\Debug\net5.0\pa2_EddiePhelps.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\obj\Debug\net5.0\pa2_EddiePhelps.AssemblyInfoInputs.cache
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\obj\Debug\net5.0\pa2_EddiePhelps.AssemblyInfo.cs
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\obj\Debug\net5.0\pa2_EddiePhelps.csproj.CoreCompileInputs.cache
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\obj\Debug\net5.0\pa2_EddiePhelps.dll
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\obj\Debug\net5.0\ref\pa2_EddiePhelps.dll
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\obj\Debug\net5.0\pa2_EddiePhelps.pdb
+C:\source\repos\MIS\spring2022\pa2_EddiePhelps\obj\Debug\net5.0\pa2_EddiePhelps.genruntimeconfig.cache
